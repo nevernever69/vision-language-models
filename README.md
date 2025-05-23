@@ -7,7 +7,8 @@ Implementing Vision Language models in pytorch
 
 - [X]  Vision Transformer From scratch
 - [X]  CLIP
-- [ ]  SIGLIP
+- [X]  SIGLIP
+- [X]  paligemma
 
 
 
